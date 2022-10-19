@@ -11,3 +11,4 @@ Display current directory contents, including hidden files (starting with .). Us
 10-back Write a script that chage the current directory to the previous one
 11-lists list all the file of the current working directory even ones with period character at the beginning and those of the /boot directory who is located inside of the parent directory
 12-file_type write a script that prints the type of a file named iamafile
+13-symbolic_link cretae a symbolic link to /bin/ls named __ls__
