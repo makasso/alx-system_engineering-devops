@@ -16,3 +16,4 @@ Display current directory contents, including hidden files (starting with .). Us
 100-lets_move Create a script that moves all files beginning with an uppercase letter to the directory /tmp/u.
 101-clean_emacs Create a script that deletes all files in the current working directory that end with the character ~.
 102-tree
+103-commas
