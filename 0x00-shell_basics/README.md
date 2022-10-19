@@ -8,3 +8,4 @@ Display current directory contents, including hidden files (starting with .). Us
 7-movethatfile move the file betty from /tmp/ to /tmp/my_first_directory
 8-firstdirectory Delete the file bettty
 9-firstdirdeletion Delete the directory my_first_directory
+10-back Write a script that chage the current directory to the previous one
