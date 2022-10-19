@@ -7,3 +7,4 @@ Display current directory contents, including hidden files (starting with .). Us
 6-firstdirectory create a script that create a directory into the tmp/ directory
 7-movethatfile move the file betty from /tmp/ to /tmp/my_first_directory
 8-firstdirectory Delete the file bettty
+9-firstdirdeletion Delete the directory my_first_directory
