@@ -3,3 +3,4 @@
 2. Groups: Write a script that prints all the groups the current user is part of
 3. New owner: write a scrit that changes the owner of the file hello to user betty
 4. Empty!: Write a script that create an empty file called hello
+5. Execute: Write a script that adds execute permissions to the file hello
